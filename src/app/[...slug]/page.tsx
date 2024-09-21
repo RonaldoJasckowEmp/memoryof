@@ -86,7 +86,7 @@ export default function About() {
                         >
                             <div className="mx-auto max-w-md">
                                 <h1 className="text-2xl  font-bold">Biography</h1>
-                                <p className="text-base/8 mt-4"> The phrase "Hover over me to see magic 💫" is a playful and enticing invitation for the user to interact with the text. It suggests that there is something hidden or surprising that can be revealed by hovering over the text. This kind of interactive element can be effective in engaging users and creating a more dynamic and memorable user experience. ChatGPT wrote it. </p>
+                                <p className="text-base/8 mt-4"> The phrase Hover over me to see magic is a playful and enticing invitation for the user to interact with the text. It suggests that there is something hidden or surprising that can be revealed by hovering over the text. This kind of interactive element can be effective in engaging users and creating a more dynamic and memorable user experience. ChatGPT wrote it. </p>
                             </div>
                         </div>
                     </div>
